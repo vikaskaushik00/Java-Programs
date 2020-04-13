@@ -1,0 +1,8 @@
+Akash,234
+Vikas,644
+Sarthak,322
+Shubham,575
+Archit,333
+Rishab,575
+Jitik,424
+Pratham,524
